@@ -8,6 +8,8 @@ Nofel Wasey (1001622345) Sheldon Chen (1002988797 ) Tashi Lhamo  (999455842)
 
 INF1344 - University of Toronto Dec 12, 2021
 
+**Please see Group 5_Analysis.ipynb for data cleaning and hypothesis testing process using Python**
+
 # Summary
 
 Effective vaccines are needed to help stop the spread of the COVID-19 virus and restore order around the world. COVID-19 has significantly impacted countries around the world in the areas of healthcare systems, economies, and society. However, due to the emergence of new COVID-19 variants of concern, there is discussion and research being developed on vaccine efficacy against infection, severity, and transmission.
